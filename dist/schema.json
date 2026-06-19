@@ -1,0 +1,21 @@
+{
+  "type": "component",
+  "metadata": {
+    "svelteMajor": 5
+  },
+  "schema": {
+    "name": "budibase-pdf",
+    "friendlyName": "budibase-pdf",
+    "description": "An amazing Budibase component!",
+    "icon": "Text",
+    "settings": [
+      {
+        "type": "dataProvider",
+        "label": "Data provider",
+        "key": "dataProvider"
+      }
+    ]
+  },
+  "hash": "f1e42ae52a8cde3fbb7f446dcd10361b3a48b06f",
+  "version": "1.1.0"
+}
